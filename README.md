@@ -46,4 +46,7 @@ The project implements a minimalist trading workflow using the following steps:
 
 
 # Result
+
+⭐Displayed the Optimal buying dates and transition matrix in Jupyter Notebook file.
 ⭐Getting Portfolio value ==> 40
+
