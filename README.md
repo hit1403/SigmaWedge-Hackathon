@@ -32,17 +32,17 @@ The project implements a minimalist trading workflow using the following steps:
 # Usage
 ## To use the project:
 
-1) Follow the instructions on the Quantrocket website to download it on your local machine.
+**1)** Follow the instructions on the Quantrocket website to download it on your local machine.
 
-2) Replace the license key in the first cell of the code with your license key by signing into your Quantrocket account.
+**2)** Replace the license key in the first cell of the code with your license key by signing into your Quantrocket account.
 
-3) Run the provided code to implement the trading model and obtain the desired outputs.
+**3)** Run the provided code to implement the trading model and obtain the desired outputs.
 
 #### (OR)
 
-1) I have extracted the needed data from Quantrocket and converted it into a csv file.
+**1)** I have extracted the needed data from Quantrocket and converted it into a csv file.
 
-2) You can import the csv and run the code from cell number 9 [From import pandas as pd]
+**2)** You can import the csv and run the code from cell number 9 [From import pandas as pd]
 
 
 # Result
